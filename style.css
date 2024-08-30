@@ -31,7 +31,7 @@ body {
   overflow-x:hidden;
   top: 40%;
   left: 0;
-  animation: moveSlideshow 10s linear infinite;
+  animation: moveSlideshow 20s linear infinite;
 }
 
 .mover-1 img {
